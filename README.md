@@ -241,4 +241,4 @@ This repository serves as the official landing page for Filemail. The software i
 **Get the most recent version of Filemail today!**
 
 ---
-**Last updated:** 2026-10-24 13:40:49 UTC
+**Last updated:** 2026-10-24 17:03:06 UTC
